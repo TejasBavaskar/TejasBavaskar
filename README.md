@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tejas Bavaskar
+- 👋 Hi, I’m Tejas
 - 👀 I’m interested in Front End Development
 - 🙌 Coding 🐱‍🏍🐱‍🏍😎
 <!---
